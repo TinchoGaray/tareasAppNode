@@ -1,5 +1,5 @@
 # TareasApp
-Aplicación de consola para el manejo de tareas:
+Aplicación de consola hecho con Node.js para el manejo de tareas:
 - Crear tarea
 - Modificar estado de la tarea
 - Eliminar tarea
